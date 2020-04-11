@@ -84,3 +84,4 @@ partitions.tmp
 partitions
 node_identifier
 
+!moquette-broker-0.12.1.jar
